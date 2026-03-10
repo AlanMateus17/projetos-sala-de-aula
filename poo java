@@ -1,5 +1,4 @@
-Para que seus alunos dominem o Java no VS Code, eles precisam entender que o editor não faz tudo sozinho como o Eclipse ou o IntelliJ; ele precisa de extensões e de uma estrutura de pastas correta.
-Aqui está um guia prático e objetivo para fixar na bancada:
+
 🚀 Guia Prático: Java no Visual Studio Code
 Professor: Alan Mateus (AMS)
 1. Preparação do Ambiente (O Check-up)
@@ -40,4 +39,3 @@ Para programar mais rápido no Laboratório:
  * Erro "Class not found": Verifique se o nome do arquivo é EXATAMENTE igual ao nome depois de public class.
  * Letras Vermelhas no Terminal: Geralmente falta um ; (ponto e vírgula) no final da linha ou uma chave { } não foi fechada.
  * O código não atualiza: Você esqueceu de salvar (Ctrl + S) antes de rodar.
-Professor, gostaria que eu criasse um "Desafio de Debug" (um código com erros propositais) para os alunos usarem esse passo a passo e tentarem consertar?
