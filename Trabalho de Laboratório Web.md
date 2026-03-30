@@ -29,15 +29,6 @@ Em seu desenvolvimento, você deve obrigatoriamente explorar os seguintes tópic
 * **Fundação Bradesco - Curso de Introdução à Gestão de Projetos**
     * [Acesse aqui](https://www.ev.org.br/cursos/introducao-a-gestao-de-projetos)
 
-### ⚡ Metodologias Ágeis
-* **The Scrum Guide (Guia oficial em Português)**
-    * [Baixar PDF](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Portuguese-Brazilian.pdf)
-
-### 🎥 Conteúdo em Vídeo (YouTube)
-* **O que é o Guia PMBOK? (Canal Ricardo Vargas)**
-    * [Assistir Vídeo](https://www.youtube.com/watch?v=0k5G_EwDAtM)
-* **Metodologia Ágil vs Tradicional (Canal Lucidchart Brasil)**
-    * [Assistir Vídeo](https://www.youtube.com/watch?v=Kz6-848EAsY)
 
 ### 📖 Literatura de Apoio (Consultar na Biblioteca Digital da Instituição)
 * **PRESSMAN, Roger S.** Engenharia de Software: uma abordagem profissional. 9. ed. Porto Alegre: AMGH, 2021.
