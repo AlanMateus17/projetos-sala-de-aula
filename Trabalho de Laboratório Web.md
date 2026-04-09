@@ -27,6 +27,60 @@ Em seu desenvolvimento, você deve obrigatoriamente explorar os seguintes tópic
 * **Artia - 9 Passos para um Projeto de Desenvolvimento de Software**
     * [Acesse aqui](https://artia.com/blog/projeto-de-dev-software/)
 * **Fundação Bradesco - Curso de Introdução à Gestão de Projetos**
+
+
+
+# Guia de Pesquisa: Planejamento e Gestão de Projetos
+
+## Módulo 1: O Pensamento Estratégico (O Porquê)
+
+### 1. O que é um Projeto de Software e a importância do Escopo
+* **O que pesquisar:** Definição de projeto vs. processo; O que é o Escopo de um projeto; Diferença entre escopo do produto e escopo do projeto.
+* **Objetivo:** Entender que um projeto tem início, meio e fim, e que sem limites claros (escopo), o trabalho nunca termina.
+
+### 2. Objetivos SMART e Análise de Viabilidade
+* **O que pesquisar:** O conceito de metas **SMART** (Específicas, Mensuráveis, Atingíveis, Relevantes e com Prazo); Viabilidade técnica, econômica e operacional.
+* **Objetivo:** Aprender a avaliar se uma ideia de sistema é realizável antes de gastar tempo programando.
+
+---
+
+## Módulo 2: O Caminho da Execução (O Como)
+
+### 3. Metodologias Tradicionais: O Modelo Cascata (Waterfall)
+* **O que pesquisar:** Origem do modelo cascata; As fases sequenciais; Vantagens e, principalmente, as desvantagens em projetos modernos.
+* **Objetivo:** Compreender a base histórica da gestão de projetos para entender por que o mercado mudou.
+
+### 4. Manifesto Ágil e a Cultura de Agilidade
+* **O que pesquisar:** Os 4 pilares e os 12 princípios do Manifesto Ágil; Por que o feedback constante é vital no desenvolvimento de software.
+* **Objetivo:** Mudar a mentalidade do aluno do "planejamento rígido" para a "adaptação constante".
+
+### 5. Framework Scrum: Papéis e Cerimônias
+* **O que pesquisar:** O que são Sprints; Papéis (*Product Owner*, *Scrum Master*, *Developers*); Reuniões (*Daily*, *Review*, *Retrospective*).
+* **Objetivo:** Entender como um time se organiza no dia a dia para entregar partes do software rapidamente.
+
+### 6. Método Kanban e Gestão Visual
+* **O que pesquisar:** O quadro Kanban (*To Do*, *Doing*, *Done*); O conceito de **WIP** (*Work In Progress*); Como identificar gargalos no fluxo de trabalho.
+* **Objetivo:** Aprender a visualizar o progresso das tarefas e evitar a sobrecarga da equipe.
+
+---
+
+## Módulo 3: O Ciclo de Vida e Ferramentas (A Prática)
+
+### 7. Ciclo de Vida de Desenvolvimento de Software (SDLC)
+* **O que pesquisar:** As 5 ou 6 fases padrão (Levantamento, Design, Implementação, Testes, Implantação e Manutenção).
+* **Objetivo:** Ter o mapa mental de qual passo vem depois de qual durante a criação de um sistema.
+
+### 8. Engenharia de Requisitos: Funcionais vs. Não-Funcionais
+* **O que pesquisar:** Como escrever requisitos claros; Exemplos de requisitos funcionais (regras de negócio) e não-funcionais (desempenho, segurança, usabilidade).
+* **Objetivo:** Aprender a "traduzir" o desejo do cliente em especificações técnicas que o programador entenda.
+
+### 9. Ferramentas de Gestão e Prototipagem
+* **O que pesquisar:** Uso do **Trello/Jira** para tarefas; Importância do **Figma/Adobe XD** para criar o design visual antes do código.
+* **Objetivo:** Conhecer o ecossistema de ferramentas que aumentam a produtividade e evitam refação.
+
+### 10. Versionamento de Código com Git e GitHub
+* **O que pesquisar:** O que é controle de versão; Conceitos de *Commit*, *Push*, *Pull* e *Branch*; Por que o Git é a ferramenta de colaboração mais importante do mundo.
+* **Objetivo:** Preparar o aluno para trabalhar em grupo, garantindo que o código de um não apague o do outro.
     * [Acesse aqui](https://www.ev.org.br/cursos/introducao-a-gestao-de-projetos)
 
 
