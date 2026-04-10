@@ -36,5 +36,7 @@ Com o sistema rodando, você deve demonstrar que sabe mantê-lo:
 * **Demonstração de Funcionamento:** Um breve parágrafo confirmando que a rede está ativa e que o sistema está atualizado.
 
 ---
+# Link do video no youtube - Passo a Passo instalação Ubuntu
+https://youtu.be/wTEizwJ6yhY?si=ZEASTiIetiJQKTiJ
 
 > **Dica de Ouro:** Trate essa Máquina Virtual como seu laboratório pessoal. Se tiver curiosidade de testar um comando perigoso ou um software desconhecido, faça isso nela! Se quebrar, basta voltar o *Snapshot* e começar de novo.
