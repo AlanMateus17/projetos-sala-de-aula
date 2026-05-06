@@ -4,22 +4,26 @@ sobre o sistema operacional hospedeiro. Sua principal força é o isolamento tot
 (BIOS, RAM, Disco), ele permite que o "Sistema Convidado" opere de forma independente, sem afetar os 
 arquivos ou o hardware real do usuário. Isso torna o VirtualBox a ferramenta ideal para laboratórios de 
 segurança, testes de antivírus e manipulação de sistemas de arquivos. 
+
 Para otimizar essa experiência, utilizam-se os Guest Additions (Adicionais de Convidado), que são drivers 
 instalados no sistema virtualizado para melhorar a integração, o desempenho de vídeo e o uso do mouse entre o 
 hospedeiro e o convidado. Além disso, o uso de Snapshots permite "congelar" e restaurar estados específicos da 
 máquina virtual com segurança, embora esse recurso se limite apenas ao ambiente virtual e não funcione 
 como um backup do disco rígido físico do hospedeiro. 
+
 Por outro lado, o Docker revolucionou o mercado com a virtualização de processos. Ao contrário das máquinas 
 virtuais, o Docker não emula hardware; ele compartilha o Kernel do sistema hospedeiro. Essa característica torna 
 as Docker Images extremamente leves em comparação às pesadas Imagens ISO (que contêm um instalador de 
 SO completo). No Docker, as imagens funcionam como plantas imutáveis (que não mudam), servindo de base 
 para a criação de containers ativos. 
+
 No entanto, essa arquitetura introduz o conceito de Efemeridade: os containers são descartáveis por natureza. 
 Para que informações críticas (como bancos de dados) não sejam perdidas ao deletar um container, é obrigatório o 
 uso de Volumes, que realizam o mapeamento (link) entre os dados do container e o armazenamento persistente do 
 computador real. Na camada de comunicação, a configuração de rede é vital: enquanto o modo NAT protege a 
 VM, o Modo Bridge (Ponte) permite que ela receba um endereço IP próprio na rede física, comportando-se como 
 um dispositivo independente. 
+
 Parte I: Múltipla Escolha 
 
 QUESTÃO 01 –  Sobre a arquitetura de virtualização, assinale a alternativa que descreve 
