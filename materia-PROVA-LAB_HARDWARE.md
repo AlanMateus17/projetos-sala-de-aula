@@ -65,53 +65,31 @@ circuito para o aparelho funcionar e o Terra protege contra fugas de corrente.
 4. ( ) Na falta de um organizador de parafusos, é recomendado misturá-los em um único pote 
 para agilizar o processo de desmontagem de um notebook. 
 
-PARTE 2: MÚLTIPLA ESCOLHA 
+
 
 5. Qual é o principal objetivo da Norma Regulamentadora NR-12 em um ambiente 
 técnico?  
 
-A) Garantir que o técnico termine o reparo no menor tempo possível.  
 
-B) Estabelecer medidas de proteção para garantir a saúde e a integridade física dos 
-trabalhadores no uso de máquinas e ferramentas.  
 
-C) Definir as cores das paredes do laboratório para melhorar a iluminação.  
-
-D) Padronizar os softwares que devem ser instalados nos computadores dos clientes. 
 
 6. Se um parafuso possui uma fenda em formato de "estrela de seis pontas", qual 
 ferramenta deve ser utilizada?  
 
-A) Chave de Fenda simples.  
 
-B) Chave Philips (formato de cruz).  
 
-C) Chave Torx.  
-
-D) Chave Allen (formato hexagonal). 
 
 7. O que caracteriza um Equipamento de Proteção Coletiva (EPC)?  
 
-A) Uma pulseira antiestática de uso pessoal.  
 
-B) Um par de óculos de proteção individual.  
-
-C) Dispositivos instalados para proteger o grupo, como um extintor de incêndio ou sinalização 
-de piso.  
-
-D) O manual de instruções do fabricante do multímetro. 
 
 8. Por que a Descarga Eletrostática (ESD) é considerada um "inimigo invisível" no 
 hardware?  
 
-A) Porque ela faz o computador pegar fogo instantaneamente.  
 
-B) Porque pode danificar circuitos microscópicos com voltagens baixas que o ser humano não 
-consegue sentir.  
 
-C) Porque ela só acontece no escuro.
 
-D) Porque ela melhora o desempenho do processador de forma temporária. 
+
 
 
 PARTE 3: QUESTÕES DISCURSIVAS (ABERTAS) 
