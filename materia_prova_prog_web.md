@@ -10,6 +10,7 @@ Sempre que iniciar um novo projeto, crie uma pasta principal (pasta raiz) com o 
 
 ---
 nome-do-seu-projeto/
+
 │
 ├── css/            
 ├── js/             
