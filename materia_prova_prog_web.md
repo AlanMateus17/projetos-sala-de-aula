@@ -6,6 +6,8 @@ Bem-vindo ao seu guia de boas práticas de desenvolvimento! Criar sites não é 
 
 Imagine tentar encontrar uma camiseta específica em um quarto onde todas as roupas estão jogadas no chão. Difícil, certo? O mesmo acontece com um site. Não podemos deixar arquivos HTML, imagens, estilos e scripts misturados na mesma pasta sem critério.
 Sempre que iniciar um novo projeto, crie uma pasta principal (pasta raiz) com o nome do projeto e, dentro dela, crie a seguinte estrutura:
+
+
 ---
 nome-do-seu-projeto/
 │
