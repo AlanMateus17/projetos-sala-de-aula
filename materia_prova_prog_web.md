@@ -21,19 +21,20 @@ nome-do-seu-projeto/
 Pasta / Arquivo
 O que deve conter?
  
-css/
+### css/
 Todos os arquivos de estilização e folhas de estilo (ex: style.css).
 
-js/
+### js/
 Arquivos contendo scripts de comportamento e interatividade (ex: main.js).
 
-img/
+### img/
 Imagens do site, fotografias, logotipos, ícones e ilustrações.
 
-components/
+### components/
+
 Pedaços menores de código HTML isolados que serão repetidos em várias páginas.
 
-index.html
+### index.html
 A página principal do seu site. Atenção: ela deve ficar obrigatoriamente solta na raiz, e não dentro de pastas, pois os servidores procuram automaticamente por esse nome.
 
 #### Passo 2: Metodologia de Prototipagem (Construindo o Esqueleto)
@@ -50,10 +51,14 @@ Use HTML Semântico: Não use apenas a tag <div> para tudo. Divida seu desenho e
 <footer> para as informações de rodapé.
 Conteúdo Dummy (Fictício): Não perca tempo escrevendo textos reais durante a fase de protótipo. Use textos gerados automaticamente (Lorem Ipsum) e serviços de imagens temporárias para simular o espaço visual ocupado.
 
-Passo 3: Aprendendo a Reutilizar Código
+#### Passo 3: 
+
+Aprendendo a Reutilizar Código
 Imagine que seu site possui 10 páginas e todas compartilham o mesmo menu superior. Se você precisar mudar o link de um menu, terá que alterar 10 arquivos diferentes? Isso gera erros e desperdiça tempo. Abaixo estão as duas estratégias que utilizaremos para evitar repetições desnecessárias.
 
-Estratégia A: O Conceito de "Template Base"
+#### Estratégia A: 
+
+O Conceito de "Template Base"
 Esta é a abordagem inicial ideal para quem está começando. Trata-se de um "copiar e colar planejado".
 
 Crie um arquivo chamado template.html na raiz do seu projeto.
@@ -63,7 +68,9 @@ Insira nele as estruturas fixas que não mudam em nenhuma página, como o <heade
 Deixe o espaço do <main> totalmente em branco.
 Quando precisar criar uma página nova, como "sobre.html" ou "contato.html", basta duplicar o arquivo template.html, renomeá-lo e preencher apenas o miolo do conteúdo interno.
 
-Estratégia B: Modularização com Componentes Dinâmicos (Avançado)
+#### Estratégia B: 
+
+Modularização com Componentes Dinâmicos (Avançado)
 
 Para evitar completamente a duplicação de códigos, podemos isolar trechos HTML e carregá-los dinamicamente nas páginas usando JavaScript estruturado de forma simples.
 
@@ -91,11 +98,15 @@ Para evitar completamente a duplicação de códigos, podemos isolar trechos HTM
 
 
 Nota Didática Importante: Para testar a Estratégia B localmente no seu computador, você precisará usar uma extensão de servidor local no seu editor de código (como a "Live Server" no VS Code), pois os navegadores bloqueiam requisições de arquivos locais por questões de segurança (política de CORS).
+
 Desafio Prático: O Fluxo de Trabalho (Sprints)
 Para consolidar o que aprendeu, divida o desenvolvimento do seu próximo site nas seguintes fases bem definidas:
 
-Sprint 1: Monte a estrutura física de diretórios no computador e configure seu arquivo index.html inicial utilizando tags estruturais limpas.
+#### Sprint 1: 
+Monte a estrutura física de diretórios no computador e configure seu arquivo index.html inicial utilizando tags estruturais limpas.
 
-Sprint 2: Isole os elementos repetitivos (menus, rodapés) em arquivos individuais dentro da pasta de componentes.
+#### Sprint 2: 
+Isole os elementos repetitivos (menus, rodapés) em arquivos individuais dentro da pasta de componentes.
 
-Sprint 3: Crie as telas internas do projeto puxando os componentes criados ou usando a base estrutural padronizada, garantindo que o fluxo de navegação funcione perfeitamente.
+#### Sprint 3: 
+Crie as telas internas do projeto puxando os componentes criados ou usando a base estrutural padronizada, garantindo que o fluxo de navegação funcione perfeitamente.
